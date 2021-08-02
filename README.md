@@ -53,3 +53,14 @@ Data Source:[Data](https://github.com/chocoplace/Pewlett-Hackard-Analysis/tree/m
 
 ### Summary:
 
+Provide high-level responses to the following questions that may provide more insight into the upcoming "silver tsunami.":
+  1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? According to the unique_title table, there are 90,398 roles eligible for retirement, on the age range between 1952-01-01 and 1955-12-31 (find here [unique_title.csv](https://github.com/chocoplace/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv)). 
+  
+  2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+According to the mentorship_eligibility table, in PH there are 1549 mentors from the age range of between 1955-01-01 and 1955-12-31 available for the mentorship program. Please see the table [mentorship_eligibility.csv](https://github.com/chocoplace/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv).
+
+Conclusion 
+
+The result of this analysis shows a greater need for a comprehensive strategy from Pewlett Hackard that caters for the needs of soon to retire employees and new hires. Having a considerable number of people retiring from the company speaks volumes on the loyalty of the employees to the company, in retribution PH has to show interest in continuing to listen and accept contributions from former employees. The job market is very competitive and new hires are now looking for additional benefits being cultural work and other topics highly important. Offering a comprehensive welcoming kit to hires will be key to continue to successfully retain employees. The end is as important as the beginning of the employee's path within the organization.
+
+End 
