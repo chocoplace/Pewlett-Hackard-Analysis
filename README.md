@@ -28,4 +28,28 @@ Data Source:[Data](https://github.com/chocoplace/Pewlett-Hackard-Analysis/tree/m
      - Employees from Sales Team: Create a query that will return only the information relevant to the Sales team: emp_no, first_name, last_name and dept_name. 
      - Employees from Sales and Development Departments: Create another query that will return the following information for the Sales and Development teams: emp_no, first_name, last_name, dept_name. 
 
+*Second part of the analysis*: The second part of the analysis had two deliverables, each with a higher level of difficulty. 
+
+  - Deliverable 1. The number of Retiring Employees by the Title.
+
+     - Retirement tables: A query was written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955. The table was exported as [retirement_titles.csv](https://github.com/chocoplace/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv). ![retirement_titles.csv](https://github.com/chocoplace/Pewlett-Hackard-Analysis/blob/main/Resources/retirement_titles.png).
+
+     - Unique Titles: A query was written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title. The table was exported as [unique_title.csv](https://github.com/chocoplace/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv). ![unique_titles.csv](https://github.com/chocoplace/Pewlett-Hackard-Analysis/blob/main/Resources/unique_titles.png).
+
+     - Retiring Titles: A query was written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring. The table was exported as [retiring_title.csv](https://github.com/chocoplace/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv).
+![retiring_titles.csv](https://github.com/chocoplace/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_tittles.png). 
+
+  - Deliverable 2. The Employees Eligible for the Mentorship Program
+  
+     - Mentorship Eligibility: A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965. The table was exported as [mentorship_eligibility.csv](https://github.com/chocoplace/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv).
+![mentorship_eligibility](https://github.com/chocoplace/Pewlett-Hackard-Analysis/blob/main/Resources/Mentorship_eligibility.png). 
+
+###*Summary of results*
+
+ 1. The retirement_titles shows several of the employees held different positions, many of those were seniors positions making them an asset of the mentorship program. 
+ 2. According to the retiring_titles table, the highest number of retirees are in senior positions. The first place is for a Senior Engineer position with 29,414 employees followed by Senior Staff with 28,254 employees. 
+ 3. The mentorship_elegibility table is a tool for the Mentorship Program aimed to utilize the added value of the highly qualified upcoming retiring employees. The employees in senior positions are considered a unique asset since they have attained training and developed their expertise. 
+ 4. The unique_titles table will serve as a tool to strategies the upcoming vacant positions that can pivot the search for new hires. It is important that Pewlett_Hackard develops a comprehensive strategy that includes the Mentorship Program to train new hires. 
+
+### Summary:
 
